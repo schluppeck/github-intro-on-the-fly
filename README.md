@@ -10,3 +10,9 @@ during ng data club, just testing
 def myFunction():
   print("Hello World, 🌎")
 ```
+
+## maths
+
+$$
+\sum_{i=0}^{100} x^i
+$$
